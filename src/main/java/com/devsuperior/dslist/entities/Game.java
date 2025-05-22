@@ -88,7 +88,7 @@ public class Game {
 		return score;
 	}
 
-	public void setPlatform(String platform) {
+	public void setPlatform(String platforms) {
 		this.platforms = platforms;
 	}
 
